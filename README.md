@@ -1,7 +1,7 @@
 ## Olá tudo bem! Eu sou o Isaque 
   ##### <li> Técnico em Informática
   ##### <li> Dev Junior || FullStack
-  ##### <li> Ciência da Computação 2023 - 2027
+  ##### <li> Ciência da Computação 2023 - 2026
   
   <img src="https://github-readme-stats.vercel.app/api?username=IsaqueRS&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueRS&theme=dark&layout=compact"/>
